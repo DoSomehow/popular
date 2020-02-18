@@ -1,0 +1,4 @@
+# Project exclude paths
+/shiro_demo/.mvn/
+.idea
+*.iml
